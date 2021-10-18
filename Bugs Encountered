@@ -1,0 +1,12 @@
+At onboarding, I didn't need to provide OTP to successfully create my account. 
+At onboarding, the password field requires uppercase, number and symbol, but the validation allowed me through when I provided just uppercase and number.
+At onboarding the password field says 7 characters long but I can only create an account with at least 8 characters. 
+BVN Validation field accepts alphabets and spaces.
+I left my account logged in for a while and the system did not log me out, considering the delicacy of the application, Tokens should expire after a finite period of time. 
+The phone number field, is not capped at 11 digits.
+The field to enter account number expects 10 digits, but I can submit the form without providing 10 digits. 
+Some of the fields that are drop downs, have the title of the field as an option. Eg. Title, Marital status, document type. 
+The field for name of next of kin accepts just spaces. 
+The OTP field should accept just numbers.
+The information being displayed as status is not user friendly "PENDING_APPROVAL"
+On the hamburger menu at the top right, clicking settings takes the user to the history page.
